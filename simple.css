@@ -14,7 +14,12 @@ ul { display: inline-block;
      padding: 0px;
      overflow: hidden; }
 
-li { float: left; }
+li { float: left;
+     padding-left: 10pt; 
+	 margin-right: 10pt;
+	 margin-top: 5pt;
+	 margin-bottom: 5pt; }
+
 
 .menu { color: #000000; }
 .menu:link { display: block;
